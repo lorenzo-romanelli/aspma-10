@@ -3,7 +3,7 @@ import soundDownload as SD
 queries = ["bassoon", "cello", "clarinet", "daluo", "flute_note", "mridangam", "naobo", "snare", "trumpet", "violin"]
 tags = [None, "single-note", "single-note", "icassp2014-dataset", "good-sounds", "icassp2013-dataset", "icassp2014-dataset", "one-shot", "good-sounds", "single-note"]
 duration = (0,5)
-key = "hjNYO8PPFWKuvcboJo9YEhtGRSv8TFwNsYY5LWVM"
+key = "<Your FreeSound API key here>"
 output = "sounds"
 
 for i in range(len(queries)):
